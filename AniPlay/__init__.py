@@ -1,3 +1,4 @@
+from os import environ
 from pyrogram.client import Client
 
 app = Client(
