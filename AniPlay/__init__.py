@@ -1,5 +1,4 @@
 import os
-from config import *
 from pyrogram.client import Client
 
 app = Client(
