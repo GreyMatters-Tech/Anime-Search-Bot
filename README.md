@@ -9,7 +9,10 @@
 - Both English Sub And Dub Available
 - Fast And Easy To Use
 - Better UI
-> Powered By : https://animedex.live
+
+<hr>
+
+### [Tutorial Video](https://youtu.be/u5obNAvEs8Y)
 
 <hr>
 
@@ -17,7 +20,7 @@
 
 - /s or /search command to search
 - Then just click buttons to select anime and get links
-> Demo : [@AniPlayerBot](https://t.me/AniPlayerBot)
+> Demo : [@Anime_Search_xBot](https://t.me/Anime_Search_xBot)
 - /stats To get stats of website
 
 <hr>
@@ -48,7 +51,7 @@
 
 ### 👤 Contact Me
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/TechZBots_Support)
+[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/GreyMatter_Bots) [![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/GreyMatter_Support)
 
 <hr>
 
@@ -56,3 +59,4 @@
 
 * [TechZBots](https://t.me/TechZBots)
 * [TechShreyash](https://github.com/TechShreyash)
+* [GreyMatter's](https://github.com/GreyMattersBot) for adding web support, solving some errors & For Promoting this Project.
