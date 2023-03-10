@@ -12,6 +12,10 @@
 
 <hr>
 
+### [Tutorial Video](https://youtu.be/u5obNAvEs8Y)
+
+<hr>
+
 ### 🧲 How To Use ?
 
 - /s or /search command to search
